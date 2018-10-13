@@ -1,1 +1,3 @@
 Git lessons #goal for the day
+
+git init is used for tracking files with git
